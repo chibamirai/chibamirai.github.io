@@ -5,7 +5,11 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "恩施站"
+          "name": "恩施站",
+          "date": "2011年",
+          "level": "一等站",
+          "mainline": "宜万铁路",
+          "url": "https://chibamirai.github.io/data/img/stations/enshi"
         },
         "geometry": {
           "coordinates": [
@@ -18,7 +22,11 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "汉口站"
+          "name": "汉口站",
+          "date": "1903年",
+          "level": "特等站",
+          "mainline": "宁蓉铁路、汉丹铁路、武孝城际铁路、汉口联络线",
+          "url": "https://chibamirai.github.io/data/img/stations/hankou"
         },
         "geometry": {
           "coordinates": [
@@ -31,7 +39,11 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "宜昌东站"
+          "name": "宜昌东站",
+          "date": "1971年",
+          "level": "一等站",
+          "mainline": "鸦宜铁路",
+          "url": "https://chibamirai.github.io/data/img/stations/yichang"
         },
         "geometry": {
           "coordinates": [
@@ -44,7 +56,11 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "荆州站"
+          "name": "荆州站",
+          "date": "2012年",
+          "level": "一等站",
+          "mainline": "宁蓉铁路",
+          "url": "https://chibamirai.github.io/data/img/stations/jingzhou"
         },
         "geometry": {
           "coordinates": [
@@ -57,7 +73,11 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "潜江站"
+          "name": "潜江站",
+          "date": "2012年",
+          "level": "二等站",
+          "mainline": "沪汉蓉高速铁路、汉宜铁路",
+          "url": "https://chibamirai.github.io/data/img/stations/qianjiang"
         },
         "geometry": {
           "coordinates": [
@@ -69,4 +89,3 @@
       }
     ]
   }
-  
