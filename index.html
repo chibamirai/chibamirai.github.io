@@ -54,7 +54,7 @@
 
         var view = new MapView({
             container: 'mapContainer',
-            center: [115.22908458010747, 32.636000827586614],
+            center: [112.20721157035473, 30.373337162666886],
             zoom: 8,
             map: map
         });
@@ -158,7 +158,7 @@
 
         //相交地级市图层
         const intersect_polygon = new GeoJSONLayer({
-            url: "https://chibamirai.github.io/data/intersect_polygon.geojson",
+            url: "./data/intersect_polygon.geojson",
             title: "所经过地级市",
             renderer: fill_renderer,
             popupTemplate: city_popupTemplate
@@ -9598,7 +9598,7 @@
 
         //火车站图层
         const stations = new GeoJSONLayer({
-            url: "https://chibamirai.github.io/data/station.geojson",
+            url: "./data/station.geojson",
             title: "主要火车站",
             renderer: station_renderer,
             popupTemplate: station_popupTemplate
