@@ -9,7 +9,7 @@
           "date": "2011年",
           "level": "一等站",
           "mainline": "宜万铁路",
-          "url": "https://chibamirai.github.io/data/img/stations/enshi"
+          "url": "./data/img/stations/enshi"
         },
         "geometry": {
           "coordinates": [
@@ -26,7 +26,7 @@
           "date": "1903年",
           "level": "特等站",
           "mainline": "宁蓉铁路、汉丹铁路、武孝城际铁路、汉口联络线",
-          "url": "https://chibamirai.github.io/data/img/stations/hankou"
+          "url": "./data/img/stations/hankou"
         },
         "geometry": {
           "coordinates": [
@@ -43,7 +43,7 @@
           "date": "1971年",
           "level": "一等站",
           "mainline": "鸦宜铁路",
-          "url": "https://chibamirai.github.io/data/img/stations/yichangdong"
+          "url": "./data/img/stations/yichangdong"
         },
         "geometry": {
           "coordinates": [
@@ -60,7 +60,7 @@
           "date": "2012年",
           "level": "一等站",
           "mainline": "宁蓉铁路",
-          "url": "https://chibamirai.github.io/data/img/stations/jingzhou"
+          "url": "./data/img/stations/jingzhou"
         },
         "geometry": {
           "coordinates": [
@@ -77,7 +77,7 @@
           "date": "2012年",
           "level": "二等站",
           "mainline": "沪汉蓉高速铁路、汉宜铁路",
-          "url": "https://chibamirai.github.io/data/img/stations/qianjiang"
+          "url": "./data/img/stations/qianjiang"
         },
         "geometry": {
           "coordinates": [
